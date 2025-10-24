@@ -9,12 +9,9 @@ I’m passionate about creating user-friendly and accessible web experiences, an
 ---
 
 ### 🛠️ Languages and Tools  
-<p align="left">
+<p align="center">
   <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original-wordmark.svg" alt="Next.js" width="40" height="40"/>
-  </a>
-  <a href="https://www.apachefriends.org/index.html" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/7/77/XAMPP_logo.svg" alt="XAMPP" width="40" height="40"/>
   </a>
   <a href="https://www.virtualbox.org/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/virtualbox/virtualbox-icon.svg" alt="VirtualBox" width="40" height="40"/>
