@@ -19,9 +19,6 @@ I’m passionate about creating user-friendly and accessible web experiences, an
   <a href="https://www.virtualbox.org/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/virtualbox/virtualbox-icon.svg" alt="VirtualBox" width="40" height="40"/>
   </a>
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" height="40"/> 
-  </a> 
   <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="40" height="40"/> 
   </a> 
@@ -56,9 +53,16 @@ I’m passionate about creating user-friendly and accessible web experiences, an
 
 ---
 
-### 🔥 All of My Commits  
+### 🔥 All of My Contributions  
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=yuichi192168&theme=tokyo-night" alt="GitHub Contribution Graph" />
 </p>
 
----
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yuichi192168&theme=tokyonight" alt="GitHub Streak Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=yuichi192168&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+</p>
+
