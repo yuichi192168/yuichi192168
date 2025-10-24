@@ -1,5 +1,4 @@
-<h1 align="center">Hi 👋, I'm MeowTzyッ</h1>
-<h3 align="center">✨ A Passionate Frontend Developer from the Philippines ✨</h3>
+<h1 align="center">I'm MeowTzyッ</h1>
 
 ---
 
@@ -9,18 +8,17 @@ I’m passionate about creating user-friendly and accessible web experiences, an
 
 ---
 
-### 🌐 Connect With Me  
-<p align="left">
-  <!-- You can add your social links here -->
-  <a href="https://www.linkedin.com/in/your-profile" target="_blank" rel="noreferrer">LinkedIn</a> |
-  <a href="https://twitter.com/your-handle" target="_blank" rel="noreferrer">Twitter</a> |
-  <a href="mailto:your.email@example.com" target="_blank" rel="noreferrer">Email</a>
-</p>
-
----
-
 ### 🛠️ Languages and Tools  
 <p align="left">
+  <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original-wordmark.svg" alt="Next.js" width="40" height="40"/>
+  </a>
+  <a href="https://www.apachefriends.org/index.html" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/7/77/XAMPP_logo.svg" alt="XAMPP" width="40" height="40"/>
+  </a>
+  <a href="https://www.virtualbox.org/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/virtualbox/virtualbox-icon.svg" alt="VirtualBox" width="40" height="40"/>
+  </a>
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" height="40"/> 
   </a> 
@@ -58,9 +56,9 @@ I’m passionate about creating user-friendly and accessible web experiences, an
 
 ---
 
-### 📊 GitHub Stats  
+### 🔥 All of My Commits  
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yuichi192168&theme=tokyonight" alt="GitHub Streak Stats" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yuichi192168&theme=tokyo-night" alt="GitHub Contribution Graph" />
 </p>
 
 ---
