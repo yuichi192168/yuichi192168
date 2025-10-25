@@ -2,7 +2,6 @@
 
 ---
 
-### 👩‍💻 About Me  
 Hi! I’m **MeowTzyッ**, a 4th-year college student who loves building simple yet meaningful web projects.  
 I’m passionate about creating user-friendly and accessible web experiences, and I’m currently working on a project that aims to **improve public access to government services**. 💗  
 
@@ -49,17 +48,4 @@ I’m passionate about creating user-friendly and accessible web experiences, an
 </p>
 
 ---
-
-### 🔥 All of My Contributions  
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yuichi192168&theme=tokyo-night" alt="GitHub Contribution Graph" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yuichi192168&theme=tokyonight" alt="GitHub Streak Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yuichi192168&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-</p>
 
