@@ -2,7 +2,7 @@
 
 ---
 
-Hi! I’m **MeowTzyッ**, a 4th-year college student who loves building simple yet meaningful web projects.  
+Hi! I’m **MeowTzyッ**, a student who loves building simple yet meaningful web projects.  
 I’m passionate about creating user-friendly and accessible web experiences, and I’m currently working on a project that aims to **improve public access to government services**. 💗  
 
 ---
